@@ -4,5 +4,9 @@
   "description": "web socket server",
   "main": "index.js",
   "author": "sntwandy <sntwandy@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  }
 }
