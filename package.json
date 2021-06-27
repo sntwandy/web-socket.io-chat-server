@@ -1,0 +1,8 @@
+{
+  "name": "socket_server",
+  "version": "1.0.0",
+  "description": "web socket server",
+  "main": "index.js",
+  "author": "sntwandy <sntwandy@gmail.com>",
+  "license": "MIT"
+}
